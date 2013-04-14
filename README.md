@@ -1,7 +1,7 @@
 kick
 ====
 
-The monitoring layer.
+The monitor layer.
 
 *See [kick readme] [1] in the docs kick docs subfolder.*
 [1]: ../../../docs/blob/master/kick/README.md "kick readme"
